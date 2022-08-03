@@ -1,0 +1,19 @@
+.home h1,
+.about .box-stats h3,
+.title-section h1 span,
+#menu li.active a,
+.contact .custom-span-contact i
+{
+	color: #8a2be2;
+}
+.about  .icon,
+.contact ul.social li a:hover,
+.header ul.icon-menu li.icon-box.active, .header ul.icon-menu li.icon-box:hover,
+body.header ul.icon-menu li.icon-box.active,  .header ul.icon-menu li.icon-box:hover,
+.btn,
+.header .icon-box h2,
+.home .color-block,
+.title-section hr {
+	background-color: #8a2be2;
+}
+
